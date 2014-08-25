@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "content": 1,
+        "error": 2,
+        "index": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "evenxzero",
+    "longName": "Khabaru - keep yourself updated",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/5a8dccb220de5c6775c873ead6ff2e43.png",
+                "menuIcon": true,
+                "name": "logo",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Khabaru",
+    "uuid": "03480173-1d54-4aba-951b-300c6c7a39e9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
