@@ -17,11 +17,6 @@
                 "menuIcon": true,
                 "name": "logo",
                 "type": "png"
-            },
-            {
-                "file": "images/icon.png",
-                "name": "IMAGE_MENU_ICON",
-                "type": "png"
             }
         ]
     },
